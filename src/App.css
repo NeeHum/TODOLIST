@@ -1,0 +1,43 @@
+.container {
+  margin: auto;
+  width: 50%;
+  border: 1px solid #1d59ff;
+  background-color: #ea05ff;
+  padding: 10px;
+}
+
+.add-btn {
+  float: right;
+  background-color: red;
+  color: #ffffff;
+  margin: 0;
+  padding: 5px;
+}
+
+.box:nth-of-type(odd) {
+  background: #3a8df9;
+}
+
+body {
+  color: white;
+}
+
+button {
+  background-color: rgb(85, 15, 159);
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 10px;
+}
+
+input {
+  background-color: #408ee8;
+  border: none;
+  border-radius: 20px ;
+  margin: 10px;
+  padding: 5px;
+}
+
+
